@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293.38 86.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb0b22;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: Impact, Impact;
+        font-size: 64px;
+      }
+
+      .cls-2 {
+        fill: #ffff40;
+      }
+
+      .cls-3 {
+        fill: #36d5b6;
+      }
+
+      .cls-4 {
+        fill: #0e09cb;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 57.31)"><tspan x="0" y="0">JEONGWON</tspan></text>
+  <text class="cls-1" transform="translate(8.38 65.31)"><tspan x="0" y="0">JEONGWON</tspan></text>
+  <text class="cls-2" transform="translate(6.21 63.31)"><tspan x="0" y="0">JEONGWON</tspan></text>
+  <text class="cls-3" transform="translate(2.86 59.31)"><tspan x="0" y="0">JEONGWON</tspan></text>
+  <text class="cls-5" transform="translate(5.2 61.31)"><tspan x="0" y="0">JEONGWON</tspan></text>
+</svg>
